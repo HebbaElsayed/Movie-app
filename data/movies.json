@@ -1,0 +1,89 @@
+[{
+  "_id": {
+    "$oid": "6457d66ccc10fb9e0a78d047"
+  },
+  "Title": "Avatar",
+  "Year": 2022,
+  "Rate": 4.8,
+  "Country": "USA",
+  "Genres": [
+    "Comedy",
+    "Western"
+  ],
+  "Actors": [
+    "Seth Macfarlance",
+    "Charlize Theron",
+    "Liam Neeson",
+    "Amanda"
+  ]
+},{
+  "_id": {
+    "$oid": "6457d6d6cc10fb9e0a78d048"
+  },
+  "Title": "Red Notice",
+  "Year": 2021,
+  "Rate": 5,
+  "Country": "USA",
+  "Genres": [
+    "Comedy",
+    "Western"
+  ],
+  "Actors": [
+    "Gal Gadot",
+    "Ryan Reynolds",
+    "Dwayne Johnsom"
+  ]
+},{
+  "_id": {
+    "$oid": "6457d710cc10fb9e0a78d049"
+  },
+  "Title": "Harry Potter",
+  "Year": 2002,
+  "Rate": 5,
+  "Country": "USA",
+  "Genres": [
+    "Fantasy",
+    "Thriller"
+  ],
+  "Actors": [
+    "Danial Radcliffe",
+    "Rupert Grint",
+    "Emma Watson",
+    "Alan Rickman",
+    "Robbie Coltrane"
+  ]
+},{
+  "_id": {
+    "$oid": "6457d73fcc10fb9e0a78d04a"
+  },
+  "Title": "Wahed Tani",
+  "Year": 2022,
+  "Rate": 4.2,
+  "Country": "Egypt",
+  "Genres": "Comedy",
+  "Actors": [
+    "Ahmed Helmy",
+    "Ruby",
+    "Ahmed Malek",
+    "Sayed Ragab"
+  ]
+},{
+  "_id": {
+    "$oid": "6457d766cc10fb9e0a78d04b"
+  },
+  "Title": "The blue elephent",
+  "year": 2014,
+  "Rate": 4.9,
+  "Country": "Egypt",
+  "Genres": [
+    "Mystery",
+    "Horror",
+    "Science fiction"
+  ],
+  "Actors": [
+    "Kareem Abdelaziz",
+    "Nelly Kareem",
+    "Hend Sabrt",
+    "Khaled Elsawy"
+  ]
+}]
